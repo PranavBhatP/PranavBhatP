@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer with interests in Machine Learning, Computer Vision, and Full-Stack Development. I enjoy building innovative solutions and products, exploring new technologies, and contributing to open-source projects.
+I am a passionate software developer with interests in Machine Learning, Computer Vision, and Full-Stack Development. I enjoy building innovative solutions and products, exploring new technologies, participating in hackathons and contributing to open-source projects with a specific focus on ML technologies.
 
 ## 🛠️ My Tech Stack
 
