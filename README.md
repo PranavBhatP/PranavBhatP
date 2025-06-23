@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer with interests in Machine Learning, Computer Vision, and Full-Stack Development. I enjoy building innovative solutions and products, exploring new technologies, participating in hackathons and contributing to open-source projects with a specific focus on ML technologies.
+I am a passionate software developer with interests in Machine Learning, Computer Vision, and Full-Stack Development. I enjoy building innovative solutions and products, exploring new technologies, participating in hackathons and contributing to open-source projects with a specific focus on ML technologies. Currently, I am working on time series forecasting with deep learning using the pytorch-forecasting package, actively contributing to this library under the European Summer of Code'25.
 
 ## 🛠️ My Tech Stack
 
